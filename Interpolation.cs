@@ -8,7 +8,7 @@ namespace MyApplication
     {
       string firstName = "John ";
       string lastName = "jim";
-      string name = $" my full name is: {firstName} {lastName}";
+      string name = $"my full name is: {firstName} {lastName}";
       Console.WriteLine(name);
     }
   }
